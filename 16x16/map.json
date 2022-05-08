@@ -3,7 +3,7 @@
  "infinite":false,
  "layers":[
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 5, 1, 1, 6, 15, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 6, 7, 0, 0, 0, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 1, 1, 1, 1, 1, 6, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 6, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 3, 0, 0, 0, 0, 9, 10, 11, 12, 1, 1, 13, 14, 15, 16, 0, 0, 2, 1, 1, 1, 3, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+         "data":[1, 2, 3, 4, 5, 6, 7, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 11, 12, 13, 14, 15, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 1, 0, 10, 11, 12, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 2, 3, 4, 5, 6, 7, 8, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 20, 21, 21, 22, 22, 23, 23, 24, 24, 23, 23, 22, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 18, 19, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1],
          "height":16,
          "id":1,
          "name":"Tile Layer 1",
@@ -19,25 +19,25 @@
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
- "tileheight":16,
+ "tileheight":8,
  "tilesets":[
         {
          "columns":8,
          "firstgid":1,
          "image":"tileset.png",
-         "imageheight":32,
-         "imagewidth":128,
+         "imageheight":24,
+         "imagewidth":64,
          "margin":0,
          "name":"tileset",
          "spacing":0,
-         "tilecount":16,
-         "tileheight":16,
+         "tilecount":24,
+         "tileheight":8,
          "tiles":[
                 {
                  "id":0,
                  "properties":[
                         {
-                         "name":"b",
+                         "name":"bottom",
                          "type":"int",
                          "value":0
                         }, 
@@ -47,8 +47,8 @@
                          "value":true
                         }, 
                         {
-                         "name":"m",
-                         "type":"float",
+                         "name":"top",
+                         "type":"int",
                          "value":0
                         }]
                 }, 
@@ -56,9 +56,9 @@
                  "id":1,
                  "properties":[
                         {
-                         "name":"b",
+                         "name":"bottom",
                          "type":"int",
-                         "value":15
+                         "value":0
                         }, 
                         {
                          "name":"collides",
@@ -66,16 +66,16 @@
                          "value":true
                         }, 
                         {
-                         "name":"m",
-                         "type":"float",
-                         "value":-1
+                         "name":"top",
+                         "type":"int",
+                         "value":1
                         }]
                 }, 
                 {
                  "id":2,
                  "properties":[
                         {
-                         "name":"b",
+                         "name":"bottom",
                          "type":"int",
                          "value":0
                         }, 
@@ -85,54 +85,16 @@
                          "value":true
                         }, 
                         {
-                         "name":"m",
-                         "type":"float",
-                         "value":0
+                         "name":"top",
+                         "type":"int",
+                         "value":2
                         }]
                 }, 
                 {
                  "id":3,
                  "properties":[
                         {
-                         "name":"b",
-                         "type":"int",
-                         "value":15
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"m",
-                         "type":"float",
-                         "value":-0.5
-                        }]
-                }, 
-                {
-                 "id":4,
-                 "properties":[
-                        {
-                         "name":"b",
-                         "type":"int",
-                         "value":7
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"m",
-                         "type":"float",
-                         "value":-0.5
-                        }]
-                }, 
-                {
-                 "id":5,
-                 "properties":[
-                        {
-                         "name":"b",
+                         "name":"bottom",
                          "type":"int",
                          "value":0
                         }, 
@@ -142,18 +104,56 @@
                          "value":true
                         }, 
                         {
-                         "name":"m",
-                         "type":"float",
-                         "value":0.5
+                         "name":"top",
+                         "type":"int",
+                         "value":3
+                        }]
+                }, 
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"bottom",
+                         "type":"int",
+                         "value":0
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":4
+                        }]
+                }, 
+                {
+                 "id":5,
+                 "properties":[
+                        {
+                         "name":"bottom",
+                         "type":"int",
+                         "value":0
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":5
                         }]
                 }, 
                 {
                  "id":6,
                  "properties":[
                         {
-                         "name":"b",
+                         "name":"bottom",
                          "type":"int",
-                         "value":8
+                         "value":0
                         }, 
                         {
                          "name":"collides",
@@ -161,18 +161,37 @@
                          "value":true
                         }, 
                         {
-                         "name":"m",
-                         "type":"float",
-                         "value":0.5
+                         "name":"top",
+                         "type":"int",
+                         "value":6
+                        }]
+                }, 
+                {
+                 "id":7,
+                 "properties":[
+                        {
+                         "name":"bottom",
+                         "type":"int",
+                         "value":0
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":7
                         }]
                 }, 
                 {
                  "id":8,
                  "properties":[
                         {
-                         "name":"b",
+                         "name":"bottom",
                          "type":"int",
-                         "value":15
+                         "value":1
                         }, 
                         {
                          "name":"collides",
@@ -180,18 +199,18 @@
                          "value":true
                         }, 
                         {
-                         "name":"m",
-                         "type":"float",
-                         "value":-0.25
+                         "name":"top",
+                         "type":"int",
+                         "value":0
                         }]
                 }, 
                 {
                  "id":9,
                  "properties":[
                         {
-                         "name":"b",
+                         "name":"bottom",
                          "type":"int",
-                         "value":11
+                         "value":2
                         }, 
                         {
                          "name":"collides",
@@ -199,35 +218,16 @@
                          "value":true
                         }, 
                         {
-                         "name":"m",
-                         "type":"float",
-                         "value":-0.25
+                         "name":"top",
+                         "type":"int",
+                         "value":0
                         }]
                 }, 
                 {
                  "id":10,
                  "properties":[
                         {
-                         "name":"b",
-                         "type":"int",
-                         "value":7
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"m",
-                         "type":"float",
-                         "value":-0.25
-                        }]
-                }, 
-                {
-                 "id":11,
-                 "properties":[
-                        {
-                         "name":"b",
+                         "name":"bottom",
                          "type":"int",
                          "value":3
                         }, 
@@ -237,35 +237,16 @@
                          "value":true
                         }, 
                         {
-                         "name":"m",
-                         "type":"float",
-                         "value":-0.25
-                        }]
-                }, 
-                {
-                 "id":12,
-                 "properties":[
-                        {
-                         "name":"b",
+                         "name":"top",
                          "type":"int",
                          "value":0
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"m",
-                         "type":"float",
-                         "value":0.25
                         }]
                 }, 
                 {
-                 "id":13,
+                 "id":11,
                  "properties":[
                         {
-                         "name":"b",
+                         "name":"bottom",
                          "type":"int",
                          "value":4
                         }, 
@@ -275,18 +256,56 @@
                          "value":true
                         }, 
                         {
-                         "name":"m",
-                         "type":"float",
-                         "value":0.25
+                         "name":"top",
+                         "type":"int",
+                         "value":0
+                        }]
+                }, 
+                {
+                 "id":12,
+                 "properties":[
+                        {
+                         "name":"bottom",
+                         "type":"int",
+                         "value":5
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":0
+                        }]
+                }, 
+                {
+                 "id":13,
+                 "properties":[
+                        {
+                         "name":"bottom",
+                         "type":"int",
+                         "value":6
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":0
                         }]
                 }, 
                 {
                  "id":14,
                  "properties":[
                         {
-                         "name":"b",
+                         "name":"bottom",
                          "type":"int",
-                         "value":8
+                         "value":7
                         }, 
                         {
                          "name":"collides",
@@ -294,18 +313,18 @@
                          "value":true
                         }, 
                         {
-                         "name":"m",
-                         "type":"float",
-                         "value":0.25
+                         "name":"top",
+                         "type":"int",
+                         "value":0
                         }]
                 }, 
                 {
-                 "id":15,
+                 "id":16,
                  "properties":[
                         {
-                         "name":"b",
+                         "name":"bottom",
                          "type":"int",
-                         "value":12
+                         "value":3
                         }, 
                         {
                          "name":"collides",
@@ -313,14 +332,147 @@
                          "value":true
                         }, 
                         {
-                         "name":"m",
-                         "type":"float",
-                         "value":0.25
+                         "name":"top",
+                         "type":"int",
+                         "value":3
+                        }]
+                }, 
+                {
+                 "id":17,
+                 "properties":[
+                        {
+                         "name":"bottom",
+                         "type":"int",
+                         "value":2
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":2
+                        }]
+                }, 
+                {
+                 "id":18,
+                 "properties":[
+                        {
+                         "name":"bottom",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":1
+                        }]
+                }, 
+                {
+                 "id":19,
+                 "properties":[
+                        {
+                         "name":"bottom",
+                         "type":"int",
+                         "value":2
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":5
+                        }]
+                }, 
+                {
+                 "id":20,
+                 "properties":[
+                        {
+                         "name":"bottom",
+                         "type":"int",
+                         "value":3
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":4
+                        }]
+                }, 
+                {
+                 "id":21,
+                 "properties":[
+                        {
+                         "name":"bottom",
+                         "type":"int",
+                         "value":4
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":3
+                        }]
+                }, 
+                {
+                 "id":22,
+                 "properties":[
+                        {
+                         "name":"bottom",
+                         "type":"int",
+                         "value":5
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":2
+                        }]
+                }, 
+                {
+                 "id":23,
+                 "properties":[
+                        {
+                         "name":"bottom",
+                         "type":"int",
+                         "value":6
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":1
                         }]
                 }],
-         "tilewidth":16
+         "tilewidth":8
         }],
- "tilewidth":16,
+ "tilewidth":8,
  "type":"map",
  "version":"1.6",
  "width":20
